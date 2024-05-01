@@ -1,4 +1,4 @@
-# Lista completa de todos os Insígnias e Conquistas
+# Lista completa de todas as Insígnias e Conquistas
 
 #### Exibir conquistas no seu perfil é completamente opcional; por padrão, eles podem ser visto por todos que visualizarem o seu perfil público.
 
@@ -11,12 +11,12 @@ Você pode optar por ter as conquistas exibidas no seu perfil acessando as [conf
 | ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | Reaja no GitHub com um emote de ❤️ **(Em testes).** |
 | ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | Ter múltiplos PRs mergeados em múltiplos repositórios públicos **(Em testes).** |
 | ![Achievement badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | Ter um repositório que possua **16 estrelas** ou [mais](#badge-tiers).                                                                                              |
-| ![Achievement badge Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | **Quickdraw** | Fechar uma issue ou um pull request em menos de 5 min depois de aberto.                                                                                                       |
+| ![Achievement badge Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | **Quickdraw** | Fechar uma issue ou um pull request em menos de 5 min após aberto.                                                                                                       |
 | ![Achievement badge Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | Co-autoria em **um** ou [mais](#badge-tiers) pull request mergeados.                                                                                             |
 | ![Achievement badge Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) | **Pull Shark** | **2 pull requests** mergeados ou [mais](#badge-tiers).                                                                                                            |
 | ![Achievement badge Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | **Galaxy Brain** | 2 respostas aceitas ou [mais](#badge-tiers).                                                                                                                      |
 | ![Achievement badge YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | **YOLO** | Mergear **ao menos um** pull request sem code review.                                                                                                       |
-| ![Achievement badge Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | **Public Sponsor** | Apoiar o trabalho do código aberto através [GitHub Sponsors](https://github.com/sponsors).                                                                                  |
+| ![Achievement badge Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | **Public Sponsor** | Patrocinar o trabalho do código aberto através [GitHub Sponsors](https://github.com/sponsors).                                                                                  |
 | ![Achievement badge Mars 2020 Contributor](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Mars 2020 Contributor** | Contribuir com código em repositórios usados na [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter). *Indisponível para adquirir.* |
 | ![Achievement badge 2020 GitHub Archive Program](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | **Arctic Code Vault Contributor** | Contribuir com código em repositórios usados no [2020 GitHub Archive Program](https://archiveprogram.github.com/). *Indisponível para adquirir.*                                 |
 
@@ -24,7 +24,7 @@ Você pode optar por ter as conquistas exibidas no seu perfil acessando as [conf
 
 ## Níveis de insígnias
 
-Algumas conquitas possuem níveis de conquista, e não só uma única versão.
+Algumas conquistas possuem níveis de conquista, e não só uma única versão.
 
 | Conquista | Padrão | Bronze | Prata | Ouro |
 | --- | :---: | :---: | :---: | :---: |
@@ -65,9 +65,9 @@ Algumas conquitas possuem níveis de conquista, e não só uma única versão.
 
 ## Cor de pele nas conquistas
 
-A aparências de algumas conquistas dependem da sua preferência de tom de pele para emote.
+A aparência de algumas conquistas dependem da sua preferência de tom de pele para emote.
 
-Você pode alterar a preferencia de cor de pele acessando [configuração visual](https://github.com/settings/appearance).
+Você pode alterar a preferência de cor de pele acessando [configuração visual](https://github.com/settings/appearance).
 
 <br>
 
@@ -98,7 +98,7 @@ Você pode alterar a preferencia de cor de pele acessando [configuração visual
 | ![White badge GitHub Pro](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only)![Black badge GitHub Pro](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) | **Pro** | Sim | Use [GitHub Pro](https://docs.github.com/pt/get-started/learning-about-github/githubs-products#github-pro) |
 | ![Dark badge Developer Program Member](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![Light badge Developer Program Member](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only) | **Programa do Desenvolvedor GitHub** | Sim | Registre-se como um membro do [GitHub Developer Program](https://docs.github.com/pt/developers/overview/github-developer-program) |
 | ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | **Security Bug Bounty Hunter** | Sim | Ajude a encontra vulnerabilidades de segurança através do [GitHub Security](https://bounty.github.com/) |
-| ![Light badge GitHub Campus Expert][gce-dark]![Dark badge GitHub Campus Expert][gce-light] | **GitHub Campus Expert** | Não | Participar do [GitHub Campus Program](https://education.github.com/experts) (será aberto [em Agosto de 2024](https://education.github.com/campus_experts)) |
+| ![Light badge GitHub Campus Expert][gce-dark]![Dark badge GitHub Campus Expert][gce-light] | **GitHub Campus Expert** | Não | Participar do [GitHub Campus Program](https://education.github.com/experts) (será aberto [em agosto de 2024](https://education.github.com/campus_experts)) |
 | ![Dark badge Security advisory credit][SAC-dark]![Light badge Security advisory credit][SAC-light] | **Security Advisory Credit** | Sim | Tenha um conselho de segurança enviado no [GitHub Advisory Database](https://github.com/advisories) aceito |
 | ![Dark badge Github Stars][stars-dark]![Light badge Github Stars][stars-light] | **GitHub Star** | Sim | Torne-se um [GitHub Star](https://stars.github.com) |
 | ![Dark badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only)![Light badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only) | **Discussion answered** | Não | Tenha um comentário de uma discussão marcado como a resposta |
