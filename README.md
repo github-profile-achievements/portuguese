@@ -1,3 +1,6 @@
+> [!WARNING]  
+> Repository moved to https://github.com/gomzyakov/achievements
+
 # Lista completa de todas as Insígnias e Conquistas
 
 #### Exibir conquistas no seu perfil é completamente opcional; por padrão, eles podem ser visto por todos que visualizarem o seu perfil público.
